@@ -10,6 +10,7 @@ My own leetcode practice record.
 The detailed blog is at [leetcode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rpFuKtFyGvj).
 
 ## Problem List
+
 '''
 
 
@@ -50,7 +51,7 @@ def write_readme(readme_file):
     readme = open(readme_file, 'w')
     readme.write(readme_head)
     for problem in problems:
-        readme.write('\n[{}]({})\n'.format(problem.qid, problem.url))
+        readme.write('[{}]({}) '.format(problem.qid, problem.url))
     readme.close()
 
 

@@ -2,7 +2,7 @@
 
 My own leetcode practice record.
 
-The detailed blog is at [leetcode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rpFuKtFyGvj).
+The detailed blog is at [LeetCode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rpFuKtFyGvj).
 
 ## Problem List
 

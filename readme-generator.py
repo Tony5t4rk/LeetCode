@@ -51,7 +51,7 @@ def write_readme(readme_file):
     readme = open(readme_file, 'w')
     readme.write(readme_head)
     for problem in problems:
-        readme.write('[{}]({}) '.format(problem.qid, problem.url))
+        readme.write('[{}]({})\n\n'.format(problem.qid, problem.url))
     readme.close()
 
 

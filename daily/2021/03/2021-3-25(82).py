@@ -21,4 +21,5 @@ class Solution:
                 nxt = nxt.next
             pre.next = nxt
             cur = nxt
+
         return pre_head.next

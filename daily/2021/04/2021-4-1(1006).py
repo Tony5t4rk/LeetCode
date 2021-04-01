@@ -1,28 +1,23 @@
 class Solution:
     def clumsy(self, N: int) -> int:
         stack = []
-        def next_sign(x):
-            if x == '*':
-                return '/'
-            elif x == '/':
-                return '+'
-            elif x == '+':
-                return '-'
-            return '*'
         sign = '*'
         cur = N
         for num in range(N - 1, 0, -1):
             if sign == '*':
                 cur = cur * num
+                sign = '/'
             elif sign == '/':
                 cur = cur // num
+                sign = '+'
             elif sign == '+':
                 stack.append(cur)
                 stack.append(num)
                 cur = 0
+                sign = '-'
             elif sign == '-':
                 cur = num
-            sign = next_sign(sign)
+                sign = '*'
         stack.append(cur)
         result = stack[0]
         for i in range(1, len(stack), 2):

@@ -61,5 +61,4 @@ def write_readme(readme_file):
 daily_path = os.path.join('.', 'daily')
 
 search_file(daily_path)
-problems.sort(key=attrgetter('qid'))
 write_readme(readme_file)

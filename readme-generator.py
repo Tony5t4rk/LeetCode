@@ -1,3 +1,5 @@
+# coding=utf-8
+
 import os, re
 from operator import attrgetter
 
@@ -28,10 +30,10 @@ problems = []
 
 def add_file(path):
     full_filename = path.split(os.sep)[-1]
-    filename, ext = full_filename.split('.')
+    filename, ext = ''.join(full_filename.split('.')[:-1]), full_filename.split('.')[-1]
 
     extract_re = re.compile(r'[(](.*?)[)]', re.S)
-    qid = int(re.findall(extract_re, filename)[0])
+    qid = re.findall(extract_re, filename)[0]
     url = github_url + '/'.join(path.split(os.sep)[1:])
 
     problems.append(Problem(qid, url))

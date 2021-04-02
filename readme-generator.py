@@ -35,8 +35,7 @@ def add_file(path):
     extract_re = re.compile(r'[(](.*?)[)]', re.S)
     qid = re.findall(extract_re, filename)[0]
     url = github_url + '/'.join(path.split(os.sep)[1:])
-    url = url.replace('(', '%28')
-    url = url.replace(')', '%29')
+    url = url.replace('(', '%28').replace(')', '%29').replace(' ', '%20')
 
     problems.append(Problem(qid, url))
 

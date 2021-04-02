@@ -30,7 +30,7 @@ problems = []
 
 def add_file(path):
     full_filename = path.split(os.sep)[-1]
-    filename, ext = ''.join(full_filename.split('.')[:-1]), full_filename.split('.')[-1]
+    filename, ext = '.'.join(full_filename.split('.')[:-1]), full_filename.split('.')[-1]
 
     extract_re = re.compile(r'[(](.*?)[)]', re.S)
     qid = re.findall(extract_re, filename)[0]

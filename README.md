@@ -28,3 +28,5 @@ The detailed blog is at [LeetCode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rp
 
 [面试题 17.21. 直方图的水量](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-2%28面试题%2017.21.%20直方图的水量%29.py)
 
+[1143. 最长公共子序列](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-3%281143.%20最长公共子序列%29.py)
+

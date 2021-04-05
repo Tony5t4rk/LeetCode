@@ -32,3 +32,5 @@ The detailed blog is at [LeetCode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rp
 
 [781. 森林中的兔子](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-4%28781.%20森林中的兔子%29.py)
 
+[88. 合并两个有序数组](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-5%2888.%20合并两个有序数组%29.py)
+

@@ -36,3 +36,5 @@ The detailed blog is at [LeetCode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rp
 
 [80. 删除有序数组中的重复项 II](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-6%2880.%20删除有序数组中的重复项%20II%29.py)
 
+[81. 搜索旋转排序数组 II](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-7%2881.%20搜索旋转排序数组%20II%29.py)
+

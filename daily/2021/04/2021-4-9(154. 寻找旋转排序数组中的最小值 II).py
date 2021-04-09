@@ -11,6 +11,8 @@ class Solution:
             m = (l + r) // 2
             if nums[m] > nums[r]:
                 l = m + 1
-            else:
+            elif nums[m] < nums[r]:
                 r = m
+            else:
+                r -= 1
         return nums[l]

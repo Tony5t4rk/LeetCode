@@ -70,6 +70,8 @@ The detailed blog is at [LeetCode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rp
 
 [1143. 最长公共子序列](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-3%281143.%20最长公共子序列%29.py)
 
+[137. 只出现一次的数字 II](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-30%28137.%20只出现一次的数字%20II%29.py)
+
 [781. 森林中的兔子](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-4%28781.%20森林中的兔子%29.py)
 
 [88. 合并两个有序数组](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-5%2888.%20合并两个有序数组%29.py)

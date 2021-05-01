@@ -34,7 +34,7 @@ The detailed blog is at [LeetCode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rp
 
 [783. 二叉搜索树节点最小距离](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-13%28783.%20二叉搜索树节点最小距离%29.py)
 
-[208. 实现 Trie (前缀树](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-14%28208.%20实现%20Trie%20%28前缀树%29%29.py)
+[208. 实现 Trie (前缀树)](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-14%28208.%20实现%20Trie%20%28前缀树%29%29.py)
 
 [213. 打家劫舍 II](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-15%28213.%20打家劫舍%20II%29.py)
 
@@ -48,7 +48,7 @@ The detailed blog is at [LeetCode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rp
 
 [面试题 17.21. 直方图的水量](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-2%28面试题%2017.21.%20直方图的水量%29.py)
 
-[28. 实现 strStr(](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-20%2828.%20实现%20strStr%28%29%29.py)
+[28. 实现 strStr()](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-20%2828.%20实现%20strStr%28%29%29.py)
 
 [91. 解码方法](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-21%2891.%20解码方法%29.py)
 

@@ -84,3 +84,5 @@ The detailed blog is at [LeetCode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rp
 
 [154. 寻找旋转排序数组中的最小值 II](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-9%28154.%20寻找旋转排序数组中的最小值%20II%29.py)
 
+[690. 员工的重要性](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/05/2021-5-1%28690.%20员工的重要性%29.py)
+

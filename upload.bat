@@ -1,4 +1,4 @@
-conda activate base
+call conda activate base
 python "./readme-generator.py"
 git add .
 git commit -m "update daily"

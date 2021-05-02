@@ -86,3 +86,5 @@ The detailed blog is at [LeetCode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rp
 
 [690. 员工的重要性](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/05/2021-5-1%28690.%20员工的重要性%29.py)
 
+[554. 砖墙](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/05/2021-5-2%28554.%20砖墙%29.py)
+

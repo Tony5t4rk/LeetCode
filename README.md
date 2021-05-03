@@ -88,3 +88,5 @@ The detailed blog is at [LeetCode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rp
 
 [554. 砖墙](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/05/2021-5-2%28554.%20砖墙%29.py)
 
+[7. 整数反转](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/05/2021-5-3%287.%20整数反转%29.py)
+

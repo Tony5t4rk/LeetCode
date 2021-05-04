@@ -90,3 +90,5 @@ The detailed blog is at [LeetCode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rp
 
 [7. 整数反转](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/05/2021-5-3%287.%20整数反转%29.py)
 
+[1473. 粉刷房子 III](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/05/2021-5-4%281473.%20粉刷房子%20III%29.py)
+

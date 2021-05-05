@@ -92,3 +92,5 @@ The detailed blog is at [LeetCode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rp
 
 [1473. 粉刷房子 III](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/05/2021-5-4%281473.%20粉刷房子%20III%29.py)
 
+[740. 删除并获得点数](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/05/2021-5-5%28740.%20删除并获得点数%29.py)
+

@@ -6,95 +6,95 @@ The detailed blog is at [LeetCode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rp
 
 ## Problem List
 
-[341. 扁平化嵌套列表迭代器](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/03/2021-3-23%28341.%20扁平化嵌套列表迭代器%29.py)
+[341. 扁平化嵌套列表迭代器](daily/2021/03/2021-3-23(341. 扁平化嵌套列表迭代器).py)
 
-[456. 132 模式](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/03/2021-3-24%28456.%20132%20模式%29.py)
+[456. 132 模式](daily/2021/03/2021-3-24(456. 132 模式).py)
 
-[82. 删除排序链表中的重复元素 II](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/03/2021-3-25%2882.%20删除排序链表中的重复元素%20II%29.py)
+[82. 删除排序链表中的重复元素 II](daily/2021/03/2021-3-25(82. 删除排序链表中的重复元素 II).py)
 
-[83. 删除排序链表中的重复元素](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/03/2021-3-26%2883.%20删除排序链表中的重复元素%29.py)
+[83. 删除排序链表中的重复元素](daily/2021/03/2021-3-26(83. 删除排序链表中的重复元素).py)
 
-[61. 旋转链表](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/03/2021-3-27%2861.%20旋转链表%29.py)
+[61. 旋转链表](daily/2021/03/2021-3-27(61. 旋转链表).py)
 
-[173. 二叉搜索树迭代器](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/03/2021-3-28%28173.%20二叉搜索树迭代器%29.py)
+[173. 二叉搜索树迭代器](daily/2021/03/2021-3-28(173. 二叉搜索树迭代器).py)
 
-[190. 颠倒二进制位](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/03/2021-3-29%28190.%20颠倒二进制位%29.py)
+[190. 颠倒二进制位](daily/2021/03/2021-3-29(190. 颠倒二进制位).py)
 
-[74. 搜索二维矩阵](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/03/2021-3-30%2874.%20搜索二维矩阵%29.py)
+[74. 搜索二维矩阵](daily/2021/03/2021-3-30(74. 搜索二维矩阵).py)
 
-[90. 子集 II](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/03/2021-3-31%2890.%20子集%20II%29.py)
+[90. 子集 II](daily/2021/03/2021-3-31(90. 子集 II).py)
 
-[1006. 笨阶乘](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-1%281006.%20笨阶乘%29.py)
+[1006. 笨阶乘](daily/2021/04/2021-4-1(1006. 笨阶乘).py)
 
-[263. 丑数](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-10%28263.%20丑数%29.py)
+[263. 丑数](daily/2021/04/2021-4-10(263. 丑数).py)
 
-[264. 丑数 II](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-11%28264.%20丑数%20II%29.py)
+[264. 丑数 II](daily/2021/04/2021-4-11(264. 丑数 II).py)
 
-[179. 最大数](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-12%28179.%20最大数%29.py)
+[179. 最大数](daily/2021/04/2021-4-12(179. 最大数).py)
 
-[783. 二叉搜索树节点最小距离](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-13%28783.%20二叉搜索树节点最小距离%29.py)
+[783. 二叉搜索树节点最小距离](daily/2021/04/2021-4-13(783. 二叉搜索树节点最小距离).py)
 
-[208. 实现 Trie (前缀树)](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-14%28208.%20实现%20Trie%20%28前缀树%29%29.py)
+[208. 实现 Trie (前缀树)](daily/2021/04/2021-4-14(208. 实现 Trie (前缀树)).py)
 
-[213. 打家劫舍 II](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-15%28213.%20打家劫舍%20II%29.py)
+[213. 打家劫舍 II](daily/2021/04/2021-4-15(213. 打家劫舍 II).py)
 
-[87. 扰乱字符串](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-16%2887.%20扰乱字符串%29.py)
+[87. 扰乱字符串](daily/2021/04/2021-4-16(87. 扰乱字符串).py)
 
-[220. 存在重复元素 III](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-17%28220.%20存在重复元素%20III%29.py)
+[220. 存在重复元素 III](daily/2021/04/2021-4-17(220. 存在重复元素 III).py)
 
-[26. 删除有序数组中的重复项 ](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-18%2826.%20删除有序数组中的重复项%20%29.py)
+[26. 删除有序数组中的重复项 ](daily/2021/04/2021-4-18(26. 删除有序数组中的重复项 ).py)
 
-[27. 移除元素](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-19%2827.%20移除元素%29.py)
+[27. 移除元素](daily/2021/04/2021-4-19(27. 移除元素).py)
 
-[面试题 17.21. 直方图的水量](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-2%28面试题%2017.21.%20直方图的水量%29.py)
+[面试题 17.21. 直方图的水量](daily/2021/04/2021-4-2(面试题 17.21. 直方图的水量).py)
 
-[28. 实现 strStr()](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-20%2828.%20实现%20strStr%28%29%29.py)
+[28. 实现 strStr()](daily/2021/04/2021-4-20(28. 实现 strStr()).py)
 
-[91. 解码方法](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-21%2891.%20解码方法%29.py)
+[91. 解码方法](daily/2021/04/2021-4-21(91. 解码方法).py)
 
-[363. 矩形区域不超过 K 的最大数值和](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-22%28363.%20矩形区域不超过%20K%20的最大数值和%29.py)
+[363. 矩形区域不超过 K 的最大数值和](daily/2021/04/2021-4-22(363. 矩形区域不超过 K 的最大数值和).py)
 
-[368. 最大整除子集](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-23%28368.%20最大整除子集%29.py)
+[368. 最大整除子集](daily/2021/04/2021-4-23(368. 最大整除子集).py)
 
-[377. 组合总和 Ⅳ](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-24%28377.%20组合总和%20Ⅳ%29.py)
+[377. 组合总和 Ⅳ](daily/2021/04/2021-4-24(377. 组合总和 Ⅳ).py)
 
-[897. 递增顺序搜索树](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-25%28897.%20递增顺序搜索树%29.py)
+[897. 递增顺序搜索树](daily/2021/04/2021-4-25(897. 递增顺序搜索树).py)
 
-[1011. 在 D 天内送达包裹的能力](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-26%281011.%20在%20D%20天内送达包裹的能力%29.py)
+[1011. 在 D 天内送达包裹的能力](daily/2021/04/2021-4-26(1011. 在 D 天内送达包裹的能力).py)
 
-[938. 二叉搜索树的范围和](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-27%28938.%20二叉搜索树的范围和%29.py)
+[938. 二叉搜索树的范围和](daily/2021/04/2021-4-27(938. 二叉搜索树的范围和).py)
 
-[633. 平方数之和](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-28%28633.%20平方数之和%29.py)
+[633. 平方数之和](daily/2021/04/2021-4-28(633. 平方数之和).py)
 
-[403. 青蛙过河](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-29%28403.%20青蛙过河%29.py)
+[403. 青蛙过河](daily/2021/04/2021-4-29(403. 青蛙过河).py)
 
-[1143. 最长公共子序列](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-3%281143.%20最长公共子序列%29.py)
+[1143. 最长公共子序列](daily/2021/04/2021-4-3(1143. 最长公共子序列).py)
 
-[137. 只出现一次的数字 II](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-30%28137.%20只出现一次的数字%20II%29.py)
+[137. 只出现一次的数字 II](daily/2021/04/2021-4-30(137. 只出现一次的数字 II).py)
 
-[781. 森林中的兔子](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-4%28781.%20森林中的兔子%29.py)
+[781. 森林中的兔子](daily/2021/04/2021-4-4(781. 森林中的兔子).py)
 
-[88. 合并两个有序数组](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-5%2888.%20合并两个有序数组%29.py)
+[88. 合并两个有序数组](daily/2021/04/2021-4-5(88. 合并两个有序数组).py)
 
-[80. 删除有序数组中的重复项 II](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-6%2880.%20删除有序数组中的重复项%20II%29.py)
+[80. 删除有序数组中的重复项 II](daily/2021/04/2021-4-6(80. 删除有序数组中的重复项 II).py)
 
-[81. 搜索旋转排序数组 II](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-7%2881.%20搜索旋转排序数组%20II%29.py)
+[81. 搜索旋转排序数组 II](daily/2021/04/2021-4-7(81. 搜索旋转排序数组 II).py)
 
-[153. 寻找旋转排序数组中的最小值](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-8%28153.%20寻找旋转排序数组中的最小值%29.py)
+[153. 寻找旋转排序数组中的最小值](daily/2021/04/2021-4-8(153. 寻找旋转排序数组中的最小值).py)
 
-[154. 寻找旋转排序数组中的最小值 II](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/04/2021-4-9%28154.%20寻找旋转排序数组中的最小值%20II%29.py)
+[154. 寻找旋转排序数组中的最小值 II](daily/2021/04/2021-4-9(154. 寻找旋转排序数组中的最小值 II).py)
 
-[690. 员工的重要性](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/05/2021-5-1%28690.%20员工的重要性%29.py)
+[690. 员工的重要性](daily/2021/05/2021-5-1(690. 员工的重要性).py)
 
-[554. 砖墙](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/05/2021-5-2%28554.%20砖墙%29.py)
+[554. 砖墙](daily/2021/05/2021-5-2(554. 砖墙).py)
 
-[7. 整数反转](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/05/2021-5-3%287.%20整数反转%29.py)
+[7. 整数反转](daily/2021/05/2021-5-3(7. 整数反转).py)
 
-[1473. 粉刷房子 III](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/05/2021-5-4%281473.%20粉刷房子%20III%29.py)
+[1473. 粉刷房子 III](daily/2021/05/2021-5-4(1473. 粉刷房子 III).py)
 
-[740. 删除并获得点数](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/05/2021-5-5%28740.%20删除并获得点数%29.py)
+[740. 删除并获得点数](daily/2021/05/2021-5-5(740. 删除并获得点数).py)
 
-[1720. 解码异或后的数组](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/05/2021-5-6%281720.%20解码异或后的数组%29.py)
+[1720. 解码异或后的数组](daily/2021/05/2021-5-6(1720. 解码异或后的数组).py)
 
-[1486. 数组异或操作](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/05/2021-5-7%281486.%20数组异或操作%29.py)
+[1486. 数组异或操作](daily/2021/05/2021-5-7(1486. 数组异或操作).py)
 

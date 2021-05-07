@@ -3,7 +3,7 @@
 import os, re
 from operator import attrgetter
 
-github_url = 'https://github.com/Tony5t4rk/LeetCode/blob/master/'
+# github_url = 'https://github.com/Tony5t4rk/LeetCode/blob/master/'
 readme_file = os.path.join('.', 'README.md')
 readme_head = '''# LeetCode
 
@@ -33,8 +33,9 @@ def add_file(path):
     filename, ext = '.'.join(full_filename.split('.')[:-1]), full_filename.split('.')[-1]
 
     title = filename[filename.find('(')+1:filename.rfind(')')]
-    url = github_url + '/'.join(path.split(os.sep)[1:])
-    url = url.replace('(', '%28').replace(')', '%29').replace(' ', '%20')
+    # url = github_url + '/'.join(path.split(os.sep)[1:])
+    url = '/'.join(path.split(os.sep)[1:])
+    # url = url.replace('(', '%28').replace(')', '%29').replace(' ', '%20')
 
     problems.append(Problem(title, url))
 

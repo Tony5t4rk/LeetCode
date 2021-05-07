@@ -34,8 +34,7 @@ def add_file(path):
 
     title = filename[filename.find('(')+1:filename.rfind(')')]
     # url = github_url + '/'.join(path.split(os.sep)[1:])
-    url = '/'.join(path.split(os.sep)[1:])
-    url = url.replace('(', '%28').replace(')', '%29').replace(' ', '%20')
+    url = path[path.find(os.sep) + 1:].replace('(', '%28').replace(')', '%29').replace(' ', '%20')
 
     problems.append(Problem(title, url))
 

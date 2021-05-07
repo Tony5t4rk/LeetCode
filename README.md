@@ -96,3 +96,5 @@ The detailed blog is at [LeetCode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rp
 
 [1720. 解码异或后的数组](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/05/2021-5-6%281720.%20解码异或后的数组%29.py)
 
+[1486. 数组异或操作](https://github.com/Tony5t4rk/LeetCode/blob/master/daily/2021/05/2021-5-7%281486.%20数组异或操作%29.py)
+

@@ -98,3 +98,5 @@ The detailed blog is at [LeetCode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rp
 
 [1486. 数组异或操作](daily\2021\05\2021-5-7%281486.%20数组异或操作%29.py)
 
+[1723. 完成所有工作的最短时间](daily\2021\05\2021-5-8%281723.%20完成所有工作的最短时间%29.py)
+

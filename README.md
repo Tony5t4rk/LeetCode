@@ -102,3 +102,5 @@ The detailed blog is at [LeetCode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rp
 
 [1482. 制作 m 束花所需的最少天数](daily\2021\05\2021-5-9%281482.%20制作%20m%20束花所需的最少天数%29.py)
 
+[872. 叶子相似的树](daily\2021\05\20212-5-10%28872.%20叶子相似的树%29.py)
+

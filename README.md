@@ -108,6 +108,8 @@ The detailed blog is at [LeetCode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rp
 
 [554. 砖墙](daily\2021\05\2021-5-2%28554.%20砖墙%29.py)
 
+[692. 前K个高频单词](daily\2021\05\2021-5-20%28692.%20前K个高频单词%29.py)
+
 [7. 整数反转](daily\2021\05\2021-5-3%287.%20整数反转%29.py)
 
 [1473. 粉刷房子 III](daily\2021\05\2021-5-4%281473.%20粉刷房子%20III%29.py)

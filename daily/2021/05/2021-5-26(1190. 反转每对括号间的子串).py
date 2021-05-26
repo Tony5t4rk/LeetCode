@@ -9,4 +9,4 @@ class Solution:
                 stk[-1] += tmp
             else:
                 stk[-1].append(c)
-        return ''.join(stk[0])
+        return ''.join([''.join(ele) for ele in stk])

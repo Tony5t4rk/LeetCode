@@ -148,3 +148,5 @@ The detailed blog is at [LeetCode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rp
 
 [1744. 你能在你最喜欢的那天吃到你最喜欢的糖果吗？](daily\2021\06\2021-6-1%281744.%20你能在你最喜欢的那天吃到你最喜欢的糖果吗？%29.py)
 
+[523. 连续的子数组和](daily\2021\06\2021-6-2%28523.%20连续的子数组和%29.py)
+

@@ -150,3 +150,5 @@ The detailed blog is at [LeetCode](https://www.wolai.com/tony5t4rk/6dxxdnKmbu3rp
 
 [523. 连续的子数组和](daily\2021\06\2021-6-2%28523.%20连续的子数组和%29.py)
 
+[525. 连续数组](daily\2021\06\2021-6-3%28525.%20连续数组%29.py)
+
